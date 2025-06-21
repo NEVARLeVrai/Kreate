@@ -1005,6 +1005,6 @@
   <string name="search_display_order_saved_searches_first">Saved searches first</string>
   <string name="search_display_order_description">Choose which appears first in search results</string>
   <string name="smart_recommendations_number">Number of recommendations</string>
-  <string name="smart_recommendations_adaptive_description">Adaptive: Scales with playlist size (10-150 recommendations)</string>
+  <string name="smart_recommendations_adaptive_description">Adaptive: Scales with playlist size (10-120 recommendations)</string>
   <string name="smart_recommendations_adaptive">Adaptive</string>
 </resources>
